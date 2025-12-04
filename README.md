@@ -50,6 +50,3 @@ This outputs:
 - Warning is shown automatically if file contains only one class.
 
 Dataset source: UNSW Canberra Cyber.
-
-
-## How to Train
